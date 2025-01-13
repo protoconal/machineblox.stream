@@ -1,2 +1,2 @@
 # machineblox.stream
-basic static html site for machineblox
+live laugh love dynamic dns
